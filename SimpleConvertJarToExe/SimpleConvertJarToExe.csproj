@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyTitle>簡易Jarファイル→Exeコンバーター</AssemblyTitle>
+    <Title>簡易Jarファイル→Exeコンバーター</Title>
+    <Copyright>ふぎゅん</Copyright>
+    <Description>簡易Jarファイル→Exeコンバーター</Description>
+    <Product>簡易Jarファイル→Exeコンバーター</Product>
+    <Company />
+    <Authors>ふぎゅん</Authors>
+    <AssemblyName>簡易Jarファイル→Exeコンバーター</AssemblyName>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Icon.ico" />
+  </ItemGroup>
+
+</Project>
